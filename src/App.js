@@ -40,13 +40,13 @@ const router = createBrowserRouter(
   createRoutesFromElements(
     <Route>
       <Route path="/" element={<Layout />}>
-        {/* ==================== Header Navlink Start here =================== */}
+        {/* ==================== Header Navlink Start  =================== */}
         <Route index element={<Home />}></Route>
         <Route path="/shop" element={<Shop />}></Route>
         <Route path="/about" element={<About />}></Route>
         <Route path="/contact" element={<Contact />}></Route>
         <Route path="/journal" element={<Journal />}></Route>
-        {/* ==================== Header Navlink End here ===================== */}
+        {/* ==================== Header Navlink End ===================== */}
         <Route path="/offer" element={<Offer />}></Route>
         <Route path="/product/:_id" element={<ProductDetails />}></Route>
         <Route path="/cart" element={<Cart />}></Route>
@@ -60,7 +60,7 @@ const router = createBrowserRouter(
 
 function App() {
   return (
-    <div className="font-bodyFont">
+    <div className="font-body-Font">
       <RouterProvider router={router} />
     </div>
   );
