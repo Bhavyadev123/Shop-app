@@ -17,7 +17,7 @@ const SpecialOffers = () => {
           _id="1101"
           img={spfOne}
           productName="Cap for Boys"
-          price="35.00"
+          price="350.00"
           color="Blank and White"
           badge={true}
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
@@ -26,7 +26,7 @@ const SpecialOffers = () => {
           _id="1102"
           img={spfTwo}
           productName="Tea Table"
-          price="180.00"
+          price="1800.00"
           color="Gray"
           badge={true}
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
@@ -35,7 +35,7 @@ const SpecialOffers = () => {
           _id="1103"
           img={spfThree}
           productName="Headphones"
-          price="25.00"
+          price="2599.00"
           color="Mixed"
           badge={true}
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
@@ -44,7 +44,7 @@ const SpecialOffers = () => {
           _id="1104"
           img={spfFour}
           productName="Sun glasses"
-          price="220.00"
+          price="1299.00"
           color="Black"
           badge={true}
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
